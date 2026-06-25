@@ -1,34 +1,246 @@
-<h1 align="center">Hi 👋, I'm Asfar Waheed</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<!-- ====================== HEADER BANNER ====================== -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asfarwaheed01&label=Profile%20views&color=0e75b6&style=flat" alt="asfarwaheed01" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:EC4899&height=220&section=header&text=Asfar%20Waheed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Integration%20%C2%B7%20Mobile%20App%20Developer&descSize=18&descAlignY=58" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asfarwaheed01" alt="asfarwaheed01" /></a> </p>
+<!-- ====================== TYPING SVG ====================== -->
+<a href="https://asfar-waheed.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+scalable+web+platforms;Shipping+high-traffic+e-commerce+systems;Integrating+AI+into+real+products;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+AWS+%C2%B7+GenAI" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/asfarwaheed1" target="blank"><img src="https://img.shields.io/twitter/follow/asfarwaheed1?logo=twitter&style=for-the-badge" alt="asfarwaheed1" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **Nextjs, Vuejs and sveltejs**
+⚡ **Engineering products that scale — one system at a time**
+<br/>
+🧠 Web Platforms · E-Commerce · AI Integration · Cloud & DevOps
 
-- 👨‍💻 My Portfolio [https://asfarwaheed.netlify.app/](https://asfarwaheed.netlify.app/)
+<br/>
 
-- 💬 Ask me about **JavaScript Development using MERN, MEVN and Nextjs**
+<!-- ====================== STAT BADGES ====================== -->
+<img src="https://komarev.com/ghpvc/?username=asfarwaheed01&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/asfarwaheed01?label=Followers&style=flat-square&color=EC4899" alt="followers" />
+<img src="https://img.shields.io/badge/Based%20in-Lahore,%20PK-A855F7?style=flat-square" alt="location" />
+<img src="https://img.shields.io/badge/Open%20to-Work-22C55E?style=flat-square" alt="open to work" />
 
-- 📫 Email me at **asfarwaheed01@gmail.com**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asfarwaheed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asfarwaheed1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asfar waheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asfar waheed" height="30" width="40" /></a>
-<a href="https://fb.com/asfar waheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asfar waheed" height="30" width="40" /></a>
-<a href="https://instagram.com/asfar_waheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asfar_waheed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asfarwaheed01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asfarwaheed01" height="30" width="40" /></a>
-</p>
+<!-- ====================== SOCIAL LINKS ====================== -->
+<a href="https://asfar-waheed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+<a href="https://github.com/asfarwaheed01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://linkedin.com/in/asfar-waheed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.upwork.com/freelancers/asfarwaheed"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="upwork"/></a>
+<a href="mailto:asfarwaheed01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://www.leetcode.com/asfarwaheed01"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asfarwaheed01&show_icons=true&locale=en&layout=compact" alt="asfarwaheed01" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asfarwaheed01&show_icons=true&locale=en" alt="asfarwaheed01" /></p>
+<!-- ====================== ABOUT ME ====================== -->
+## 🟪 About Me <sub>`// who am i`</sub>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asfarwaheed01&" alt="asfarwaheed01" /></p>
+```ts
+const asfar = {
+  role: "Software Engineer",
+  base: "Lahore, Pakistan 🇵🇰",
+  focus: ["High-traffic e-commerce", "AI-integrated products", "Cloud & DevOps"],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Redux", "Tailwind"],
+    backend:  ["Node.js", "Express", "Nest.js", "Django"],
+    cloud:    ["AWS (ECS, S3, App Runner)", "GCP", "Vercel"],
+    data:     ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+  },
+  certified: ["Azure Developer Associate", "DevOps Engineer Expert"],
+  Currently exploring: ["LLM apps", "Voice AI", "RAG pipelines"],
+};
+```
+
+- 🏗️ I build and scale **high-traffic e-commerce platforms** that serve thousands of concurrent users.
+- 🤖 I integrate **GenAI** into real products — voice interviews, AI document processing, and intelligent workflows.
+- ☁️ Microsoft-certified in **Azure** and **DevOps** — comfortable from frontend to containerized cloud deployment.
+- 🎓 **BS Computer Science**, University of Engineering & Technology (UET) Lahore.
+
+<br/>
+
+<!-- ====================== CURRENT FOCUS (MERMAID) ====================== -->
+## 🟦 Current Focus <sub>`// what i'm working on`</sub>
+
+```mermaid
+mindmap
+  root((Asfar's<br/>Focus))
+    Full Stack
+      React & Next.js
+      Node & Express
+      TypeScript
+    E-Commerce
+      AWS ECS Scaling
+      High Traffic
+      Performance & Security
+    AI Integration
+      LLM Applications
+      Voice AI / LiveKit
+      Document Intelligence
+    Cloud & DevOps
+      AWS & GCP
+      Docker & CI/CD
+      Azure Certified
+```
+
+<br/>
+
+<!-- ====================== TECH ARSENAL ====================== -->
+## 🟥 Tech Arsenal <sub>`// tools of the trade`</sub>
+
+**🎨 Frontend / UI**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**⚙️ Backend / APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+**🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**☁️ Cloud / DevOps / Tools**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## 🟩 Featured Projects <sub>`// what i've built`</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 ALFA MALL
+High-traffic **e-commerce marketplace** serving thousands of active users. Optimized infra with smart caching (−10% AWS cost), patched SSRF vulnerabilities, and shipped containerized deployments on **AWS ECS**.
+
+`Next.js` `React` `AWS ECS` `Redux Toolkit` `SCSS` `MUI`
+
+🔗 **[Live →](https://alfamall.com/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎤 INTERVIA AI
+End-to-end **AI interview platform**. Built backend + frontend, integrated **LiveKit** for real-time voice interviews with instant AI feedback (−35% evaluation time), and shipped AI-driven career recommendations. 99.9% uptime on AWS.
+
+`Next.js` `TypeScript` `Node.js` `LiveKit` `OpenAI` `MongoDB`
+
+🔗 **[Live →](https://intervia.ai/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 SQUIRKLE AI
+**AI document-processing** system with a chat interface, chat history, and pay-as-you-go billing. Integrated **Stripe** and built a highly optimized, SEO-friendly, non-blocking UI.
+
+`React` `Tailwind` `GCP App Engine` `Stripe` `Context API`
+
+🔗 **[Live →](https://squirkle.xyz/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 MoAI — Move More Together
+**AI-powered wellness companion** using Apple Health & Google Health Connect. Available on both app stores.
+
+`React Native` `AI` `Apple Health` `Health Connect`
+
+🔗 **[App Store →](https://apps.apple.com/us/app/moai-move-more-together/id6749557946)** · **[Play Store →](https://play.google.com/store/apps/details?id=com.jaydholakia.movewithmoai)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 CONPHERE
+Business / **SaaS platform** built and shipped to production.
+
+`Next.js` `Node.js` `Cloud`
+
+🔗 **[Live →](https://conphere.com/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ BAREEZE & SANAULLA STORE
+Single-brand **e-commerce sites** with SSR/SSG product pages, Redux-managed carts & sessions, containerized and deployed on **AWS ECS** for high availability.
+
+`Next.js` `Redux` `Ant Design` `Docker` `AWS ECS`
+
+🔗 **[Bareeze →](https://bareeze.com/)** · **[Sanaulla →](https://sanaullastore.com/)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ====================== GITHUB STATS ====================== -->
+## 📊 GitHub Stats <sub>`// the numbers`</sub>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asfarwaheed01&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=EC4899&text_color=c9d1d9" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfarwaheed01&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=asfarwaheed01&hide_border=true&background=0d1117&stroke=30363d&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=asfarwaheed01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+<br/>
+
+<!-- ====================== CERTIFICATIONS ====================== -->
+## 🏅 Certifications <sub>`// verified`</sub>
+
+- 🔷 **Azure Developer Associate** — Microsoft Certified · *Jun 2025*
+- 🔶 **DevOps Engineer Expert** — Microsoft Certified · *Mar 2025*
+- 🎨 **CSS Flexbox & Responsive Web Design** — Coursera · *Jul 2024*
+- 🤖 **Machine Learning** — Coursera · *Jul 2023*
+
+<br/>
+
+<!-- ====================== FOOTER ====================== -->
+<div align="center">
+
+### 💬 Let's build something great together
+
+<a href="mailto:asfarwaheed01@gmail.com"><img src="https://img.shields.io/badge/Reach%20out-asfarwaheed01@gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:8B5CF6&height=120&section=footer" width="100%"/>
+
+</div>

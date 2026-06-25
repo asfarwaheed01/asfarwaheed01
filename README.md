@@ -214,11 +214,8 @@ Single-brand **e-commerce sites** with SSR/SSG product pages, Redux-managed cart
 
 <br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=asfarwaheed01&hide_border=true&background=0d1117&stroke=30363d&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-
+<img src="https://streak-stats.demolab.com/?user=asfarwaheed01&hide_border=true&background=0d1117&stroke=30363d&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=asfarwaheed01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 

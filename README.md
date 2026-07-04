@@ -209,8 +209,6 @@ Single-brand **e-commerce sites** with SSR/SSG product pages, Redux-managed cart
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asfarwaheed01&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=EC4899&text_color=c9d1d9" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfarwaheed01&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" alt="top langs" />
 
 <br/>
 

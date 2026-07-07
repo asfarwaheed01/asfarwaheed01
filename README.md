@@ -28,7 +28,6 @@
 <a href="https://asfar-waheed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
 <a href="https://github.com/asfarwaheed01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <a href="https://linkedin.com/in/asfar-waheed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<!-- <a href="https://www.upwork.com/freelancers/asfarwaheed"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="upwork"/></a> -->
 <a href="mailto:asfarwaheed01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://www.leetcode.com/asfarwaheed01"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
 

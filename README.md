@@ -5,14 +5,14 @@
 
 <!-- ====================== TYPING SVG ====================== -->
 <a href="https://asfar-waheed.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+scalable+web+platforms;Shipping+high-traffic+e-commerce+systems;Integrating+AI+into+real+products;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+AWS+%C2%B7+GenAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+scalable+web+platforms;Shipping+high-traffic+e-commerce+systems;Integrating+AI+into+real+products;React+Native+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+AWS+%C2%B7+GenAI" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ⚡ **Engineering products that scale — one system at a time**
 <br/>
-🧠 Web Platforms · E-Commerce · AI Integration · Cloud & DevOps
+🧠 Web Platforms · Mobile Apps · E-Commerce · AI Integration · Cloud & DevOps
 
 <br/>
 
